@@ -28,7 +28,7 @@ class Login extends Component {
                            type="text"/>
                     <input placeholder="Password" required=""  id="password"  onChange={this._handleChangeInput.bind(this, 'password')} value={password} name="password"
                            type="password"/>
-                    <button id="login-btn">Submit</button>
+                    <button id="login-btn">Login</button>
                 </form>
             </div>
         );
