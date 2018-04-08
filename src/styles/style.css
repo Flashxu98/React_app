@@ -16,7 +16,7 @@ body{
 .span_text{
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-right: 700px;
+  margin-right: 300px;
 }
 header{
   background: #fe5d49;
@@ -88,5 +88,5 @@ header #add:hover{
   position: absolute;
   left: 1px;
   padding: 22px 32px;
-  background: url('tick.svg') no-repeat top left;
+  background: url('../tick.svg') no-repeat top left;
 }

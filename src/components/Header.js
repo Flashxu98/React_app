@@ -1,6 +1,6 @@
 import React, {Component} from "react";
-import "./style.css";
-//import FormCreate from "./FormCreate";
+import "../styles/style.css";
+import {createTodo} from "../service/APIServices";
 
 class Header extends Component {
     state = {
@@ -32,7 +32,7 @@ class Header extends Component {
 
     handleOnClick() {
         const {text} = this.state;
-        if(text == ''){
+        if(text === ''){
             alert("Please write something");
         }
         else{
