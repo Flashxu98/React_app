@@ -50,13 +50,16 @@ class Login extends Component {
         login({email, password})
             .then(response => {
                 const {success, data} = response;
-                const {accessToken} = data;
-
                 if (success) {
+                    const {accessToken} = data;
                     this.props.onAuth(true);
                     setToken(accessToken);
                 }
+                else{
+                    alert("Tài khoản hoặc mật khẩu sai !");
+                }
             });
+
     }
 
     componentDidMount() {
