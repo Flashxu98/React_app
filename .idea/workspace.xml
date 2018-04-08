@@ -59,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/register.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="274">
@@ -89,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Loggin.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Loggin.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Loggin.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="379">
@@ -254,12 +254,12 @@
       <workItem from="1522032676308" duration="5383000" />
       <workItem from="1523107158689" duration="3012000" />
       <workItem from="1523146628380" duration="24637000" />
-      <workItem from="1523198810790" duration="2610000" />
+      <workItem from="1523198810790" duration="3236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61296000" />
+    <option name="totallyTimeSpent" value="61922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -652,16 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/service/APIServices.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-476">
@@ -680,6 +670,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="58" column="56" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
